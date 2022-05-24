@@ -1,6 +1,8 @@
 package it.polito.tdp.crimes.db;
 
 import it.polito.tdp.crimes.model.Event;
+import it.polito.tdp.crimes.db.EventsDao;
+
 
 public class TestDao {
 
